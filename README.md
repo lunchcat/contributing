@@ -30,7 +30,7 @@ We welcome ideas for new features. Before submitting a feature request, please c
 ### Pull Requests
 
 1. Fork the repository and create your branch from `main`. Your branch must be named properly according to the feature you are working on.
-2. Ensure your code follows our Coding Style (TBA).
+2. Ensure your code follows our Coding Style.
 3. Make sure your commits follow the [Conventional Commits](#conventional-commits) specification.
 4. Open a pull request, referencing any related issues.
 5. Your pull request will be reviewed by maintainers before merging.
